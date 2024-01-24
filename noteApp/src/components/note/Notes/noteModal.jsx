@@ -3,7 +3,7 @@ import {
   Modal,
   ModalBody,
   ModalContent,
-  ModalFooter,
+  // ModalFooter,
   ModalHeader,
   useDisclosure,
 } from "@nextui-org/react";
@@ -31,7 +31,7 @@ function NoteModal({ detail }) {
         }}
       >
         <ModalContent>
-          {(onClose) => (
+          {() => (
             <>
               <ModalHeader className="flex flex-col gap-1">
                 {detail.title}
@@ -39,11 +39,11 @@ function NoteModal({ detail }) {
               <ModalBody>
                 <p>{detail.note}</p>
               </ModalBody>
-              <ModalFooter>
+              {/* <ModalFooter>
                 <Button color="danger" variant="bordered" onPress={onClose}>
                   Close
                 </Button>
-              </ModalFooter>
+              </ModalFooter> */}
             </>
           )}
         </ModalContent>
