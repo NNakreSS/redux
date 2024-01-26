@@ -16,9 +16,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <Provider store={Store}>
     <Router>
       <NextUIProvider>
-        <main className="light">
           <App />
-        </main>
       </NextUIProvider>
     </Router>
   </Provider>
