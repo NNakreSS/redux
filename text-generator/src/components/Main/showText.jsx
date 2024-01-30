@@ -9,7 +9,7 @@ const ShowText = () => {
         <p key={index} className={"m-2"}>
           {format == "html" && <span className="text-yellow-200">{"<p>"}</span>}
           {p}
-          {format == "html" && <span className="text-yellow-200">{"<p>"}</span>}
+          {format == "html" && <span className="text-yellow-200">{"</p>"}</span>}
         </p>
       ))}
     </div>
