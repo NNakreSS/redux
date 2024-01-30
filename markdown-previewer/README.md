@@ -4,5 +4,6 @@ yarn
 
 yarn dev
 
-![image](https://github.com/NNakreSS/redux/assets/87872407/a1530004-e108-4fe0-82dd-7ab0aeb287f8)
+![image](https://github.com/NNakreSS/redux/assets/87872407/d6d13088-3302-4d8b-9035-37fac26f02a5)
+
  
