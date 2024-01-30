@@ -1,8 +1,4 @@
-# React + Vite
+# React + Vite / Redux - Basic Paragraph Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/NNakreSS/redux/assets/87872407/2e2ff114-39c1-4cd6-82a0-b80846f3e33e)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
