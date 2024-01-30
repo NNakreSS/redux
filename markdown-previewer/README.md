@@ -1,8 +1,8 @@
-# React + Vite
+# React + Vite  / Redux - Tailwind ->  Markdown Previewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+yarn 
 
-Currently, two official plugins are available:
+yarn dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/NNakreSS/redux/assets/87872407/a1530004-e108-4fe0-82dd-7ab0aeb287f8)
+ 
